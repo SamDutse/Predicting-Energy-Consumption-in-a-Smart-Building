@@ -62,7 +62,7 @@ We conducted data exploration and visualization to understand the relationships 
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](correlation.png)
 
 ## Modeling
 
